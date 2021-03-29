@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>50600</QvBuildNo>
+   <CreatorDoc>b62fd449-f76d-4105-9f14-9ad2b7faaafb</CreatorDoc>
+   <CreateUtcTime>2019-10-30 18:18:54</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>Leave</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>SAC_Code</FieldName>
+       <BitOffset>18</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>67</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>528</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Submitted_By</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>229</NoOfSymbols>
+       <Offset>528</Offset>
+       <Length>3551</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Employee_Name</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>228</NoOfSymbols>
+       <Offset>4079</Offset>
+       <Length>3531</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>NEDID</FieldName>
+       <BitOffset>64</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>228</NoOfSymbols>
+       <Offset>7610</Offset>
+       <Length>3648</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Approver_Name</FieldName>
+       <BitOffset>25</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>112</NoOfSymbols>
+       <Offset>11258</Offset>
+       <Length>1710</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Request_date</FieldName>
+       <BitOffset>43</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>81</NoOfSymbols>
+       <Offset>12968</Offset>
+       <Length>1296</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+         <String>$timestamp</String>
+         <String>$date</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Leave_Date</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>23</NoOfSymbols>
+       <Offset>14264</Offset>
+       <Length>368</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+         <String>$timestamp</String>
+         <String>$date</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Type</FieldName>
+       <BitOffset>80</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>11</NoOfSymbols>
+       <Offset>14632</Offset>
+       <Length>205</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Hours</FieldName>
+       <BitOffset>13</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>22</NoOfSymbols>
+       <Offset>14837</Offset>
+       <Length>225</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Status</FieldName>
+       <BitOffset>84</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>15062</Offset>
+       <Length>48</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Approved_date</FieldName>
+       <BitOffset>50</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>70</NoOfSymbols>
+       <Offset>15110</Offset>
+       <Length>1106</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Recipient_Name</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>16216</Offset>
+       <Length>2</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Reason</FieldName>
+       <BitOffset>40</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>6</NoOfSymbols>
+       <Offset>16218</Offset>
+       <Length>188</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Leave_Time</FieldName>
+       <BitOffset>57</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>105</NoOfSymbols>
+       <Offset>16406</Offset>
+       <Length>1897</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>comments</FieldName>
+       <BitOffset>72</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>98</NoOfSymbols>
+       <Offset>18303</Offset>
+       <Length>2944</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>11</RecordByteSize>
+   <NoOfRecords>779</NoOfRecords>
+   <Offset>21247</Offset>
+   <Length>8569</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>{STORE - \\nihdqv1\03_SourceDocuments\03.ICS\NHLBI\QlikView\QVD\Layer1\Qlik Sense QVDs\Leave.qvd(qvd)
+};</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>https://nihdqv1.nih.gov:5555/data?connectorid={filetransferconnector&amp;table=ftpgetrawfile&amp;host=itas-reports.nih.gov&amp;ftpmode=ftpsslexplicit&amp;port=21&amp;username=nhlbi&amp;password=ruhjma%2bmisjjzxxys%2byrcq%3d%3d%3axc%2fgyqmmnvust%2bj%2bo1omla%3d%3d&amp;ignoreproxy=false&amp;remotepath=%2fnhlbi%2fnhlb_leave_activity_report.csv&amp;appid=&amp;loadaccesstoken=lizce6bzxg};</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+ HNH1 HNH131 HNH1312 HNH132 HNH1322 HNH137 HNH1391 HNH13914 HNH1396 HNH1397 HNH1398 HNH13A HNH13A2 HNH13A3 HNH13B HNH13D HNH13D2 HNH13D3 HNH1H HNH1H2 HNH1H3 HNH1H4 HNH31 HNH32 HNH33 HNH34 HNH41 HNH4A HNH4C HNH53 HNH534 HNH535 HNH55 HNH58 HNH582 HNH583 HNH584 HNH59 HNH5A HNH61 HNH611 HNH614 HNH616 HNH67 HNH6C HNH6G HNH6J HNH6N HNH6Z01 HNH6Z03 HNH6Z04 HNH6Z05 HNH6Z06 HNH6Z08 HNH6Z09 HNH91 HNH92 HNH94 HNH952 HNH962 HNH963 HNH964 HNH97 HNH972 HNH973 HNH98 HNHA4 Allan Shipp Ilsa Rovira Kristin Wegner Queen Ola Sacha Han Joanna Bare Jennifer Kramer Kathryn Gonzalez Laura Broe Robert Wymer Alex Roberds George Black Joseph Bowman William Stryker Jean Ta Bethlehem Getachew Amy Pryor Senetra Butler Shkeda Johnson Alastair Thomson Corey Sims Siwei Luo Brian Parsons Drew Trimble Noble Dzakpasu Barbara Del Sordi Katherine Pattillo Courtney Addis David Novy Kelly Medcalf Quentin Jurin Hannah Hopkins Lisa Douek Rachel Khmarsky Azza Alamin James DeBill Shari Wahlert Elizabeth Hackett Joanna Bursenos Magginas Melanie Peel Allison Cristman David Durgin Jeffrey Williams Jennifer Biemer Michael Gemmill Shannon Griffin Ann Gawalt Arun Mathur Kristiane Cooper Lisa Portner Lynn Furtaw Shirley Ruiz-Lundgren Lenora Johnson Hillary Viers Isabel Estrada Mark Sampson Daniel Stimson Norbert Weber Robin Mackar Cathy Troutman Maria Powell Michelle Bolek Neyal Ammary-Risch Amy Faiola Roya Kalantari Marrah Lachowicz-Scroggins Michelle Freemer Patricia Noel Thomas Croxton Aruna Natarajan Neil Aggarwal Michael Twery Peyvand Ghofrani Donna DiMichele Naomi Clarke William Hoots Yu Yang Asif Rizwan Pankaj Qasba Ronald Warren Yu-Chung Yang Catherine Levy Marlene Peters Lawrence Simone Glynn Andre Walker Ann Brasile Mejac Debbie Chen Donna James Stephanie Blackford Tammi Simpson Taryn Cobb Allison Moyal Annette Singletary Kristen Williams Ryan Lombardi Shelia Ortiz Tyrone Smith Anthony Agresti Gayle Jones Laurel Kennedy Lynn Rundhaugen Eric Padmore Genevieve Lind Carol Brooks Kelcey Guseman Valerie Prenger Athena McCorkle Patricia Hendrick Cassandra McRoy Keith Mintzer William Johnson Melissa Nagelin Shelley Sehnert Julia Keller Sonya Freeman Aroos Shafi Laura Hsu Christina Van Itallie Duck-Yeon Lee Erik Rodriquez George Lindsay Jessica Chertow John Philip McCoy Matthew Hsieh Pradeep Dagur Shelley Sahu Yubin Du Amy Sedivi Brett Siebenhar Katharine Miller Kelly Brennan Walter Fountain Zina Crews Audrey Noguchi Karen Keeran Kenneth Jeffries Randall Clevenger Timothy Hunt Herbert Geller Joni Mills Chevalia Robinson Eleftheria Koklanaris Eveline Gwaabe Georg Aue Georgia Cusack Jeanine Superata Nora Quade Pia Nierman Richard Gustafson Sara Hauffe Sharon Osgood Stephanie Helwing Susan Soto Antoine Smith Dalton Saunders Sachiyo Kawamoto Xuefei Ma James Sellers Lois Greene Rodney Levine Min Ren Aylin Bonifacino Christopher Pleyer Clare Sun Jichun Chen Robert Reger Xingmin Feng Javier Traba Dominguez Jiro Kato Kana Fujikura Kerry Ryan Leslie Kennedy Maria Fergusson Mark Barton Patricia Bandettini Patricia Julien-Williams Paul Hwang Pingyuan Wang Rebecca Huffstutler Shahin Hassanzadeh Sujata Shanbhag Susan Granrud Neelam Raja Kairong Cui Daniel Levy Paul Courchesne Tianxiao Huan Denise Crooks John Devany Mario Carranza Michael Davis Michael Shmilovich Uri Reichman Courtney Fitzhugh Donna Jones Julia Mikulla Mary Smith Raymond Ebert Theresa Gosselin Yi-Ping Fu Karin Lidman Albert Lee Marissa Miller Martha Lundberg Narasimhan Danthi Frank Evans Jerome Fleg Yves Rosenberg Patrice Desvigne Nickens Renee Wong Yang Shi Gina Wei Phyliss Sholinsky Shu Hui Chen Charlotte Pratt Joni Snyder Josephine Boyington Kathryn Green Rebecca Campo Cheryl Nelson Felecia Campbell Jared Reis John Kunz Lorraine Silsbee Lucy Hsu Shari Ludlam Katherine Kavounis Bradley Newsome Rebecca Roper Allan Shipp Ilsa Rovira Kristin Wegner Queen Ola Sacha Han Joanna Bare Jennifer Kramer Kathryn Gonzalez Laura Broe Robert Wymer Alex Roberds George Black Joseph Bowman William Stryker Jean Ta Amy Pryor Senetra Butler Shkeda Johnson Alastair Thomson Corey Sims Siwei Luo Brian Parsons Drew Trimble Noble Dzakpasu Barbara Del Sordi Katherine Pattillo Courtney Addis David Novy Kelly Medcalf Quentin Jurin Hannah Hopkins Lisa Douek Rachel Khmarsky Azza Alamin James DeBill Shari Wahlert Elizabeth Hackett Joanna Bursenos Magginas Melanie Peel Allison Cristman David Durgin Jeffrey Williams Jennifer Biemer Michael Gemmill Shannon Griffin Ann Gawalt Arun Mathur Kristiane Cooper Lisa Portner Lynn Furtaw Shirley Ruiz-Lundgren Lenora Johnson Hillary Viers Isabel Estrada Mark Sampson Daniel Stimson Norbert Weber Robin Mackar Cathy Troutman Maria Powell Michelle Bolek Neyal Ammary-Risch Amy Faiola Roya Kalantari Marrah Lachowicz-Scroggins Michelle Freemer Patricia Noel Thomas Croxton Aruna Natarajan Neil Aggarwal Michael Twery Peyvand Ghofrani Donna DiMichele Naomi Clarke William Hoots Yu Yang Asif Rizwan Pankaj Qasba Ronald Warren Yu-Chung Yang Catherine Levy Marlene Peters Lawrence Simone Glynn Andre Walker Ann Brasile Mejac Debbie Chen Donna James Stephanie Blackford Tammi Simpson Taryn Cobb Allison Moyal Annette Singletary Kristen Williams Ryan Lombardi Shelia Ortiz Tyrone Smith Anthony Agresti Gayle Jones Laurel Kennedy Lynn Rundhaugen Eric Padmore Genevieve Lind Carol Brooks Kelcey Guseman Valerie Prenger Athena McCorkle Patricia Hendrick Cassandra McRoy Keith Mintzer William Johnson Melissa Nagelin Shelley Sehnert Julia Keller Sonya Freeman Aroos Shafi Laura Hsu Christina Van Itallie Duck-Yeon Lee Erik Rodriquez George Lindsay Jessica Chertow John Philip McCoy Matthew Hsieh Pradeep Dagur Shelley Sahu Yubin Du Amy Sedivi Brett Siebenhar Katharine Miller Kelly Brennan Walter Fountain Zina Crews Audrey Noguchi Karen Keeran Kenneth Jeffries Randall Clevenger Timothy Hunt Herbert Geller Joni Mills Chevalia Robinson Eleftheria Koklanaris Eveline Gwaabe Georg Aue Georgia Cusack Jeanine Superata Nora Quade Pia Nierman Richard Gustafson Sara Hauffe Sharon Osgood Stephanie Helwing Susan Soto Antoine Smith Dalton Saunders Sachiyo Kawamoto Xuefei Ma James Sellers Lois Greene Rodney Levine Min Ren Aylin Bonifacino Christopher Pleyer Clare Sun Jichun Chen Robert Reger Xingmin Feng Javier Traba Dominguez Jiro Kato Kana Fujikura Kerry Ryan Leslie Kennedy Maria Fergusson Mark Barton Patricia Bandettini Patricia Julien-Williams Paul Hwang Pingyuan Wang Rebecca Huffstutler Shahin Hassanzadeh Sujata Shanbhag Susan Granrud Neelam Raja Kairong Cui Daniel Levy Paul Courchesne Tianxiao Huan Denise Crooks John Devany Mario Carranza Michael Davis Michael Shmilovich Uri Reichman Courtney Fitzhugh Donna Jones Julia Mikulla Mary Smith Raymond Ebert Theresa Gosselin Yi-Ping Fu Karin Lidman Albert Lee Marissa Miller Martha Lundberg Narasimhan Danthi Frank Evans Jerome Fleg Yves Rosenberg Patrice Desvigne Nickens Renee Wong Yang Shi Gina Wei Phyliss Sholinsky Shu Hui Chen Charlotte Pratt Joni Snyder Josephine Boyington Kathryn Green Rebecca Campo Cheryl Nelson Felecia Campbell Jared Reis John Kunz Lorraine Silsbee Lucy Hsu Shari Ludlam Katherine Kavounis Bradley Newsome Rebecca Roper 3ñ¨ 0011071795 8˜› 0010197048 ,Ow2001668140 ÛAWw2002207195 ë“_w2002752491 `A¸ 0012075360 ÐhKw2001430736 	Ý=w2000542985 M	Ü 0014420301 åË 0013362446 BB_w2002731586 .\› 0010181678 ü°Iw2001318140 ‡ˆGw2001176711 .€ž 0010387502 x(š 0010102904 íkNw2001628141 pY7w2000116080 €¬ 0011276160 s´Uw2002105459 ÝµUw2002105821 dŸ« 0011247460 ·¬ 0011276983 “Ü 0014418323 u$š 0010101877 mæGw2001200749 ­]Tw2002017709 74Lw2001482807 ÙaPw2001756633 Õ-Qw2001808853 ”Nw2001638423 #5Ì 0013382947 èÜAw2000805096 ÓWw2002196691 Ô·Ow2001713108 š™ 0010066451 ´èUw2002118836 GØ™ 0010082375 ¡_w2002715809 Q]È 0013131089 	ä`w2002838537 wý² 0011730295 I(_w2002724937 šAVw2002141594 ¾\w2002566800 [Yw2002328411 7
+Kw2001406519 WÝš 0010149207 Ž:w2000326271 «û™ 0010091435 j¾\w2002566762  ‰ª 0011176352 S¶?w2000664147 Jl:w2000317514 IOw2001702217 mKÅ 0012929901 ¥äš 0010151077 @£™ 0010068800 å­Ù 0014265829 ¹Ð® 0011456697 ÕŸÛ 0014393301 Í¯ 0011521421 yÈ™ 0010078329 ç™Qw2001836519 Ä\w2002568223 ZÜEw2001067098 ]'š 0010102621 U£ 0010704153 1&­ 0011347505 8ÕUw2002113848 ¡š 0010133767 ìí« 0011267564 ü+Ü 0014429180 gÛ 0014359911 Þ·Ù 0014268382 XÌ² 0011717720 üj`w2002807548 Óš 0010146704 B­ 0011354651 1#Pw2001740593 ?› 0010174239 švž 0010385050 V¶Å 0012957270 o_£ 0010706799 êÅ™ 0010077674 ½"Æ 0012985021 ØÁ™ 0010076632 µãPw2001789877 ´Aw2000753588 ÇÂ 0012721863 y¯Ï 0013610873 ˆUw2002062728 !iWw2002217249 Är› 0010187460 ©Jš 0010111657 iÝ™ 0010083689 ns› 0010187630 Æâ¯ 0011526854 ‹cÜ 0014443403 F`± 0011624518 ”]Õ 0013983124 iO]w2002603881 wÐHw2001260663 ”ãIw2001331092 {^š 0010116731 ÁR® 0011424449 HcIw2001298248 ŸOw2001673119 Pk® 0011430736 ¢×£ 0010737570 –Z;w2000378518 \9¬ 0011286876 ›q~M1300132251 âÑ 0013698274 ü¯ 0011533327 ñý²;1001586161 qX>w2000574577 D© 0011076164 y©Uw2002102649 JýFw2001141066 iAw2000775454 •Ý¨ 0011066773 ðì¨ 0011070704 CÊØ 0014207555 éC¬ 0011289577 `Öš 0010147424 W˜Hw2001246295 áGw2001199367 ÞGMw2001553374 ¾O^w2002669502 S=w2000507664 \&› 0010167900 ¶Cµ 0011879350 sñ¨ 0011071859 Š¡š 0010133898 PÖš 0010147408 !Ô¨ 0011064353 ÞÕ« 0011261406 ‘¯Yw2002366353 T|š 0010124372 ¿Àš 0010141887 á¨Dw2000988385 A¯ 0011505729 …Ú™ 0010082949 ®"š 0010101422 ˆ>w2000557704 
+0¨ 0011022346 À 0012583941 •?w2000655630 –f» 0012281494 ¶hÈ 0013134006 ð_µ 0011886576 þš 0010097918 Î9¼ 0012335566 &I› 0010176806 Ûñž 0010416603 °š 0010128816 HV™ 0010049096 #› 0010167063 ¶(Ew2001021110 ±(š 0010102961 ³Sw2001974037 zYHw2001230202 ÞÙ© 0011131358 DÔ 0013911043 ;"Æ 0012984891 %¼Aw2000796709 «ôž 0010417323 ¡]w2002590369 ð­ 0011399194 x°Uw2002104440  Qš 0010113440 ‹±š 0010137995 >¦ 0010911550 ž® 0011443724 ðè¨ 0011069680 åšÓ 0013867749 I}Mw2001567049 –™ 0010065414 
+ùÌ 0013433098 ¬jš 0010119852 ø'Uw2002069496 *¬¨ 0011054122 ±B™ 0010044081 wNÚ 0014306935 ˜;>w2000567192 œ7¨ 0011024284 ytIw2001302649 …­ 0011371781 Ñº 0012243214 ® 0011440141  0010296862 ñ,¹ 0012135665 nøœ 0010287214 Ô£ 0010686164 &š 0010095910 Û 0014355986 5¸ 0012072221 (Û 0014355496 lÖ» 0012310124 ~¶ 0011929214 û[› 0010181627 ¹è¢ 0010676409 ¦&® 0011413158 · š 0010133687 P¹š 0010139984 "Â˜ 0010011170 ’_™ 0010051474 |BÂ 0012731004 Ww2002195998 ûh² 0011692283 °?™ 0010043312  |<w2000452640 «V£ 0010704555 ç:º 0012204775 vyÔ 0013924726 I8Û 0014366793 _‡Uw2002093919 +› 0010162987 ¾ë® 0011463614 ŒÚ 0014323852 §Uw2002102034 k`™ 0010051691 ÂAw2000754626 X¶š 0010139224 ÏnGw2001170127 _=Qw2001812831 öb7w2000118518 Amy Patterson Nakela Cook Jeffrey Snyder Marianne Manheim Kathleen O Sullivan Lina Allen Lisa Freeny James Gude Siwei Luo Alastair Thomson Brian Parsons Noble Dzakpasu Nancy Zhou Shkeda Johnson Karen DeLeon Ann Gawalt Kristiane Cooper Joanna Bursenos Magginas Melissa Ramos Khurram Shaikh Lisa Portner Shannon Griffin Rashida Ferebee Allison Cristman Gary Gibbons Lenora Johnson Hillary Viers Daniel Stimson Michelle Bolek Anthony Jackson Neil Aggarwal Thomas Croxton Michael Twery William Hoots Terrie Squadere Yu-Chung Yang Simone Glynn Tracee Foster Gayle Jones Ryan Lombardi Gavin Wilkom Tawana McKeither Tammi Simpson John Diggs Rosa Hugo Kimberly Stanton Kathleen Rousche Keary Cope Jeffrey Hurst Laura Moen William Johnson Charles Joyce Kathryn Valeda Valerie Prenger Clare Waterman Jessica Chertow Daniel Fogarty Charles Bolan Robert Balaban Griffin Rodgers John Philip McCoy Chengyu Liu Robert Klosowski Gary Unger Danielle Springer Randall Clevenger Timothy Hunt James Hawkins Stewart Levine Jennifer Kyte Richard Childs Janet Valdez Katherine Roskom Eleftheria Koklanaris Georg Aue Robert Adelstein Nico Tjandra Warren Leonard So Gun Hong Adrian Wiestner Neal Young Michael Sack Joel Moss Andrew Arai Kenneth Olivier Elizabeth Murphy Angelo Taveira Dasilva Marcus Chen Paul Hwang Beth Kozel Keji Zhao Daniel Levy Bruce Goldstein Swee Lay Thein Gail Pearson Denis Buxton Nancy Geller Jane Scott Marissa Miller Jonathan Kaltman Yves Rosenberg Renee Wong David Goff Gina Wei Lawrence Fine Catherine Stoney Charlotte Pratt Jared Reis Pothur Srinivas Sean Coady LeShawndra Price Cheryl Boyce ¤ª  2019-08-07 òª  2019-10-24 ÷ª  2019-10-29 ª  2019-07-03 öª  2019-10-28 Áª  2019-09-05 óª  2019-10-25 ºª  2019-08-29 ëª  2019-10-17 ðª  2019-10-22 Öª  2019-09-26 Úª  2019-09-30 ª  2019-03-19 ²ª  2019-08-21 ¹ª  2019-08-28 Íª  2019-09-17 Ïª  2019-09-19 ¡©  2018-11-21 Ÿª  2019-08-02 «ª  2019-08-14 éª  2019-10-15 ×ª  2019-09-27 ìª  2019-10-18 ãª  2019-10-09 Æª  2019-09-10 ¸ª  2019-08-27 âª  2019-10-08 äª  2019-10-10 fª  2019-06-06 ñª  2019-10-23 Žª  2019-07-16 œª  2019-07-30 Ðª  2019-09-20 Õª  2019-09-25 sª  2019-06-19 Ûª  2019-10-01 êª  2019-10-16 Ýª  2019-10-03 ”ª  2019-07-22 Jª  2019-05-09 Âª  2019-09-06 Îª  2019-09-18 ©ª  2019-08-12 Çª  2019-09-11 ­ª  2019-08-16 qª  2019-06-17 åª  2019-10-11 Àª  2019-09-04 š©  2018-11-14 Æ©  2018-12-28 ›ª  2019-07-29 ^ª  2019-05-29 Üª  2019-10-02 Óª  2019-09-23 Wª  2019-05-22 ´ª  2019-08-23 Kª  2019-05-10 rª  2019-06-18 ª  2019-03-27 ïª  2019-10-21 îª  2019-10-20 Í©  2019-01-04 Åª  2019-09-09 %ª  2019-04-02 ª  2019-03-11 áª  2019-10-07 »ª  2019-08-30 ª  2019-03-14 £ª  2019-08-06 ª  2019-07-01 à©  2019-01-23 ±ª  2019-08-20 Þª  2019-10-04 Uª  2019-05-20 Ñ©  2019-01-08 Ìª  2019-09-16 íª  2019-10-19 ³ª  2019-08-22 Èª  2019-09-12 ôª  2019-10-26 uª  2019-06-21 «  2019-11-29 «  2019-11-12 «  2019-11-13 ùª  2019-10-31 øª  2019-10-30 úª  2019-11-01 ÿª  2019-11-06  «  2019-11-07 «  2019-11-08 «  2019-11-26 «  2019-11-27 ýª  2019-11-04 þª  2019-11-05 «  2019-11-21 «  2019-11-25 «  2019-11-15 «  2019-11-22 «  2019-11-14 «  2019-11-18 «  2019-11-19 «  2019-11-20 «  2019-11-11 «  2019-11-28 Annual Leave Sick Leave Credit Hours-Used Time-Off Incentive Comp Time-Used Family Friendly Leave Preventive Health Expanded FMLA (LWOP) FMLA - LWOP Comp Time for Travel (CTT) FMLA - Sick Leave    8    2 	   9       ü?1.75       ô?1.25    5 
+   10    6    7    3       @3.5       @4.5    1    4       !@8.5       @2.5       ø?1.5    12       è?0.75       @6.5       @7.5       @5.5 Approved Pending Deleted by Employee Denied ¥ª  2019-08-08  ª  2019-07-17 öª  2019-10-28 Æª  2019-09-10 óª  2019-10-25 Éª  2019-09-13 ºª  2019-08-29 ÷ª  2019-10-29 ëª  2019-10-17 òª  2019-10-24 ×ª  2019-09-27 Üª  2019-10-02 ª  2019-03-27 ²ª  2019-08-21 ¹ª  2019-08-28 Óª  2019-09-23 £©  2018-11-23 Ÿª  2019-08-02 ­ª  2019-08-16 ðª  2019-10-22 äª  2019-10-10 Èª  2019-09-12 ¿ª  2019-09-03 ãª  2019-10-09 ñª  2019-10-23 Öª  2019-09-26 éª  2019-10-15 tª  2019-06-20 ìª  2019-10-18 êª  2019-10-16 ïª  2019-10-21 Þª  2019-10-04 ”ª  2019-07-22 Nª  2019-05-13 Õª  2019-09-25 Çª  2019-09-11 sª  2019-06-19 Áª  2019-09-05 ›©  2018-11-15 Úª  2019-09-30 Ë©  2019-01-02 ›ª  2019-07-29 _ª  2019-05-30 åª  2019-10-11 `ª  2019-05-31 lª  2019-06-12 Ûª  2019-10-01 ¸ª  2019-08-27 Âª  2019-09-06 îª  2019-10-20 Í©  2019-01-04 %ª  2019-04-02 /ª  2019-04-12 âª  2019-10-08 Ìª  2019-09-16 ¤ª  2019-08-07 ª  2019-07-18 æª  2019-10-12 à©  2019-01-23 ±ª  2019-08-20 Wª  2019-05-22 ´ª  2019-08-23 Ó©  2019-01-10 èª  2019-10-14 Íª  2019-09-17 Ýª  2019-10-03 ³ª  2019-08-22 áª  2019-10-07 yª  2019-06-25   Care of family member - illness/medical appointment Family Member Funeral Participate in school activities Serious Health Condition-Family Member Birth of a child/care of a newborn 7:30AM -  4:00PM 9:30AM - 11:30AM 7:00AM -  4:00PM 8:00AM -  4:00PM 2:45PM -  4:30PM 2:45PM -  4:00PM 9:00AM -  5:00PM 12:00PM -  5:00PM 8:00AM -  6:00PM 10:00AM -  4:00PM 10:00AM -  5:00PM 8:00AM - 10:00AM 1:00PM -  3:00PM 8:30AM -  5:00PM 8:15AM -  4:45PM 12:00PM -  3:00PM 6:30AM -  3:00PM 6:30AM - 10:00AM 10:30AM -  3:00PM  1:00PM -  2:00PM 8:00AM -  4:30PM 12:00PM -  4:00PM 7:30AM -  5:00PM 7:00AM -  3:30PM 7:00AM -  3:00PM 1:00PM -  5:00PM 7:00AM -  4:30PM 6:30AM -  3:30PM 6:30AM -  4:00PM 7:30AM -  2:00PM 7:30AM - 12:30PM 8:00AM -  5:30PM 8:00AM -  5:00PM 12:00PM -  3:30PM 1:00PM -  3:30PM 11:00AM -  3:00PM 6:00AM -  2:30PM 6:30AM -  2:30PM 6:00AM -  2:00PM 2:00PM -  4:30PM 3:00PM -  4:30PM 8:00AM -  9:30AM 7:00AM - 11:00AM 6:30AM - 10:30AM 1:00PM -  4:00PM 12:30PM -  4:30PM 2:30PM -  4:00PM 3:30PM -  4:30PM 7:30AM -  9:30AM 7:30AM -  3:30PM 1:30PM -  5:30PM 12:00PM -  4:30PM 8:30AM - 10:30AM 11:00AM - 12:30PM 9:00AM - 12:00PM 11:00AM -  5:00PM 4:30PM -  5:30PM 9:00AM -  5:30PM 9:30AM -  6:00PM 1:00PM -  6:00PM 9:00AM -  6:00PM 8:30AM -  4:30PM 12:30PM -  3:30PM 9:00AM - 10:00AM 12:30PM -  3:00PM 7:00AM - 10:00AM 11:15AM -  3:15PM 10:00AM - 12:00PM 8:30AM - 12:30PM 8:30AM - 11:30AM 11:00AM -  2:00PM 9:00AM - 11:00AM 6:00AM -  3:30PM 11:00AM -  3:30PM 7:00AM -  5:00PM 6:00AM -  4:30PM 9:00AM - 12:30PM 2:00PM -  6:00PM 7:30AM -  6:00PM 8:00AM - 12:00PM 9:30AM - 12:30PM 2:00PM -  5:00PM 6:30AM -  7:00PM 8:30AM -  6:00PM 7:00AM -  5:30PM 9:00AM -  9:45AM 12:15PM -  5:15PM 1:15PM -  5:15PM 12:45PM -  5:15PM 7:45AM -  9:15AM 7:45AM -  4:15PM 9:15AM -  3:45PM 1:45PM -  4:15PM 10:00AM -  7:00PM 11:30AM -  7:00PM 8:30AM -  5:30PM 1:30PM -  5:00PM 8:00AM -  1:30PM 9:30AM -  5:00PM 3:00PM -  5:30PM 7:30AM -  5:30PM 10:00AM -  1:00PM 1:00PM -  4:30PM 1:30PM -  4:30PM To go to Miami to visit a friend To go to MTL for the Veterans Day weekend  Annual Leave Hi Marianne. I have a dental appointment. Thanks. Thanksgiving travel to Wisconsin AL - Halloween! Per 10/22 email. Requesting leave for the day after Thanksgiving. to take a (personal) course Help with school's Halloween party Sick leave request to take daughter to doctor's appointment Thanksgiving Final oral surgery appointment Requesting AL for the week of 11/12. Requesting leave for 11/29 (Friday after Thanksgiving) Use/Lose AL Use or lose User or lose Columbus OH Vacation school MCPS half day Medical dental and/or optical examination or treatment. Jury Duty Dentist Dental appointment for son Follow up doctor appointment for son Medical Procedure Doctor appointment for son Routine Dr. Appt Florida Holiday travel time -- annual leave. Annual leave Med tests Holiday leave PT Family travel Request annual leave from Tuesday Nov. 12 - Monday Nov. 18 dental apointment Leave Requested. Use it or Lose Leave Use-it-or-Lose Leave Day after Thanksgiving. Medical apt with Ruben. Jordan medical appt. Day after Thanksgiving U/L. Thanksgiving vacation Wife surgery and recovery thanksgiving holiday leave was approved. i cancelled and requested again to align with my new tour of duty and  only be charged 8 hrs leave/day. Preparation visit for Annual Physical Annual Physical Dermatologist Appointment Eye Doctor Appointment Requesting annual leave for Wednesday November 20 - Wednesday November 27 2019. Drs appointment. Date of spouse's colonoscopy and endoscopy. Will need to drive him to and from the hospital. Will telework in between. Colonoscopy scheduled. Surgeon re-eval and PT - back at office noon-ish infusion appointment Meeting at Cabin John Middle School. Dr. Appt. School function Its bowel prep time!!!!! USE or LOSE USE or LOSE Hours Finalizing funeral arrangement to send our family member's corpse to Cameroon Bariatric Surgery as discussed with supervisor no CLL clinic Medical procedure Co-op in daughters nursery school from 9:30am - 12:00pm. Visiting my son Dental Appointment Soccer trip to Raleigh NC I will go back to China to visit my parents. Having minor surgery Call in late. Using 45 mins Al so actual sign in time today is 9:00.  Thank you. Request day after Thanksgiving off.  Thank you. Doctor appointment.  Thank you. Halloween parade and parties at elementary school. Halloween parade and elementary school Halloween party. Halloween parade at Wyngate elementary school. Montgomery County employees' wellness/retirement program Medical appointment School event Pediatrician appointment followed by personal leave. day after thanksgiving end of year Use/lose Fri. off/ end of year Use/lose AL/ holiday Doc appointment/Davis [Malone] AL/ personal AL/ CLose Doc appointment/Pre-Op Telework until 1:00pm AL afterwards                        # D  C  E    f (!† (
+ 0  0 ¡ 0 	( 
+(  ( Ä8 Ã8 £   ã@ 	@$ #@$	#	H(	 
+ 
+
+P,
+ 
+X0 
+X0 
+X0 
+
+X0  
+X0  
+`4 
+@$ 
+h8  
+h8  
+h8  
+h8  
+h8  
+ !
+p< *
+p< 
+p< B
+p<"b
+p<$x@&	 x@&	 x@&	 €& ˆD(#H 	H 
+H  H ˜L* ˜L* ˜L* £0,
+ £! ,@ ¨,. E H(. 	$H0 
+$H0  (@$2 (HP2 (HP2 (HP2 (HP2 ¨-°4  ,°& B0¸T6Á1ÀX8 B0ÀX: Q0ÀX: ï0ÀX< à0ÀX< K0È\6 L0È\6 E0Ð`6¥0Ød> 4° 
+4°  4°  A4à@  B4à@  Q4à@   4è*!A4 ðB  !B4 ðB  !Q4 ðB  !G4 øB  !4 ø  "8! &! "8! &! "8!i&!#8" l*" #8" l*" #8" l*" #8" l*" $	8#q# $
+8#q# $ 8#q# $8#q# $8#i#$	8#i#$ 8#i#$
+8#i#%<$$ %<$$ %<$$ &J<%6% '< &°t & '< &°t & (CA"'Ð`D' (èA"' yF' (áA"' yF' ( @"' y&' (@"'@|&' )@$( } (*@&)( ) *@&)¸` ) +¥A&*H*,@ +0…J+ ,@ +0…L+ ,@ +0…J+ ,@ +0…J+ ,@ +0…J+ ,@ + N+-óA,8‰P,-B,@-R,-
+@,@-*, - @,@-*, -B,¨,T,!-@,X*,-(@,H,.§E-(V-.D-(2-/ D(.ØTL. 0
+D"/Ð`&/ 0 D"/Ð`&/ 0£E"/°|X/0¥E"/°|H/0²E"/ X/1HD*0 %&0 1•E*0 &0 1AD*0 %&0 1 D*0èd&0 2
+D,1ÐT&1 2 D,1ÐT&1 3D.2H 2 4H03ÐT 3 4H03ÐT 3 4H03ÐT 3 4*I03ÐTZ3  4 H03ÐT 3! 5£M24èd\4 5 L24èd*4 6L45èd&5 6L45èd&5 6	L45èd&5 6
+L45èd&5 6 L45èd&5 7
+L46°t6 7 L46°t6 8	P270 7 8
+P270 7 8 P270 79R68 y^8 9P680 8" :P69&9 : P69&9 ;„U2:è(`:<!T8;PMb;<	T8;X‘d;<
+T8;X‘d;< T8;X‘d;=ªU2< }f<# = T2< }<# >cU8=`Mh= > T8=`M=? X:>HP > @%X<?0?$@+X<?0j?$@Z<?0l?$A\>@h•@ A\>@h•@ A\>@h•@ A\>@h•@ A\>@h•@ B\>Aq}0AB\>Aq}0AB\>Aq}0AB\>Aq}0AB\>Aq}0AB\>Aq}0AC\>B 0BC\>B 0BD\:C0C D\:C0C D\:C0C D\:C0C D\:C0C D\:C0C E`<D@t*D% E	`<D@t*D% E
+`<D@t*D% E `<D@t*D% E4a<D@tnDF`:Ex™&E F	`:Ex™&E F
+`:Ex™&E F `:Ex™&E Gïd:F€pF!HŒe@G rGIhBHpH IhBHpH IhBHpH IhBHpH IhBHpH IhBHpH IhBH¨ H IhBH¨ H JhDI&IJ	hDI&IJ
+hDI&IJ hDI&IKh0JP,J Kh0JP,J Kh0JP,J Kh0JP,J Kh0JP,J Kh0JP,J Kh0JP,J Kh0JP,J LhBK°(K LhBK°(K LhBK°(K LhBK°(K LhBK°(K MlFL  L MlFL  L NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM NlFM yM N lFM yMOlFN0tN& OlFN0tN& OlFN0tN& OlFN0tN& OlFN0tN& PlBOO PlBOO PlBOO PlBOO PlBOO Q pHPˆ¥vP R pHQ¸`Q S!pBR R'T tJS© S( U@tLTX 6T VtNUHU V´tNUxU) VtNU&U* VtNU&U* VtNU&U* V	tNU&U* V
+tNU&U* WtPV˜­ V WtPV˜­ V WtPV˜­ V WtPV˜­ V W	tPV˜­ V W
+tPV˜­ V W tPV˜­ V W³uPV˜­,VXtPW U&W Y tRX`2X+YtRX 2X,!YtRX 2X-ZAtJYè(zY Z tJYè(Y [ xTZP|Z.\GxV[Ø°.[ \xV[Ø° [ ]AxV\Ð`@\ ]BxV\Ð`@\ ]QxV\Ð`@\ ]xV\Ð`*\ ] xV\èd*\ ^
+xX]¨A ]/ ^ xX]¨A ]/ _xV^À2^ _xV^À2^ _xV^À2^ _xV^À2^ _xV^À2^ _#yV^HP~^` xV_  _0 a|N`¸*`1 a|N`¸*`1 a|N`¸*`1 bI|Ra°µ.a2 bJ|Ra°µ.a2 b@|Ra°µ.a2 b |Ra¸*a3b
+|Ra¸*a3b	|Ra¸*a3cˆ}Zb(Q€b4c/}Zb(Qnb5d |LcÀ¹c d%|LcÀ¹c6d/|LcÀ¹c7e€\d y*d e €\d )*d f€\e0e g„^fÈq2f8 g„^fÈq2f8 g„^fÈq2f8 g„^fÈq2f8 g	„^fÈq2f8 g
+„^fÈq2f8 hì…`g ‚g!i#…bh„h9jAˆ^iq.i jBˆ^iq.i jQˆ^iq.i jOˆ^iq.i jSˆ^iq.i k§‰^j x†j:l ŒdkÐdkm$Œdl(ˆlnŒfm  m;o`n 0np `o½ o p`o@| o p`oHd o q¥•hpØŠp<q+•hpØŒp=rN”hq6q rN”hq6qrI”hq6q rI”hq6qrJ”hq6qs$˜jr  rt˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t˜jsà} s t	˜jsà} s uœltè *t uœltè *t uœltè *t uœltê *tuœltê *tvœnu¸° u v œnu¸° u vœnu0 u vœnu0 u wˆpv¸Á€vw
+œpv vw œpv vxçrwaPw> yœtx(Ä x yœtx(Ä x yœtx(Ä x zœnyØ) yzœnyØ) yzœny  y zœny  y zœny  y { œvz É z | œx{èÍ{ |œx{èd{ |œx{èd{ |$x{èdŽ{}œr|ð | }œr|ð | }œr|ð | } œr|ð | ~ œz}øÑ } 	 |~0~ 
+ |~0~   |~0~ €$ | ? p€€ p€€ p€€‚ ~@|‚ ~@|‚  ~ |ƒ ~‚ Ö‚ „T ~ƒ’ƒ„K ~ƒp’ƒ…¤€„XY|„ …	¤€„XY|„ …
+¤€„XY|„ … ¤€„XY|„ †¤‚…ÐØ …@ † ¤‚…ØQ … ‡¤„†Þ† ‡¤„†Þ† ‡ ¤„†Ø)† ‡
+¤„†Ø)†ˆ¤†‡Ø}‡ ‰e¥†ˆ(”ˆAŠ¨t‰È ‰ Š¨t‰È ‰ Š¨t‰È ‰ ‹ ¨ˆŠ( Š ŒI¬Š‹¸T@‹B ŒJ¬Š‹¸T@‹C ¬ŒŒè2Œ  ¬ŒŒè0ŒŽE¬Ž¸. ŽE¬Ž¸. ŽE¬Ž¸l.D ŽK¬Ž¸. ¬ŒŽ ŽÖ¬Œ–E!Õ¬Œ–E!Á¬Œ–E!Â¬Œ–E!Ñ¬Œ–E!Ò¬Œ–E!Ó¬Œ–E!Ô¬Œ–E!Í¬Œ–E!Î¬Œ–E!É¬Œ–E!Ê¬Œ–E!Ä¬Œ–E!Ã¬Œ–E!Ë¬Œ–E!Ì¬Œ–E!Æ¬Œ–E!Ç¬Œ–E!Ê¬Œ°–Â¬Œ°–Ç¬Œ°–‘A¬Žpm. ‘H¬Žè. ’¬Š‘°( ‘F’¬Š‘°( ‘F’¬Š‘°( ‘F’¬Š‘°( ‘F“À¬’ â˜’G ”¬’“èd“•¬””H(” –¬• x• –¬• x• –¬• y•H—A­’–»`š–I˜£­—œ—˜Ë¬—ž—™°–˜$ ˜š°–™0™›°–šØQš ›°–šØQš ›°–šØQš ›°–šØQš ›°–šØQš ›°–šØQš ›°–šØQš ›°–šØQš œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› œ°–›èd› ´lœ¸|œ ´lœ¸|œ ´lœ¸|œ ž´l¸`  ž´l¸`  ž´l¸`  ž´l¸`  ž´l¸`  ž´l¸`  ž´l¸`  ž´l¸`  Ÿ ¸˜ž¸`ž  ¤½šŸ Ÿ¡Àœ °t   ¡Àœ °t   ¡Àœ °t   ¢Àr¡X`¡ ¢Àr¡X`¡ ¢Àr¡X`¡ £Àž¢ P*¢ £Àž¢ P*¢ £Àž¢ P*¢ £Àž¢ P*¢ £Àž¢ P*¢ £Àž¢ P*¢ £	Àž¢ P*¢ £
+Àž¢ P*¢ £Àž¢ØQ*¢ £Àž¢ØQ*¢ ¤À £(æ £ ¤À £(æ £ ¤À £(æ £ ¤À £(æ £ ¤ À £ ( £ ¤
+À £°( £ ¥ÀŒ¤*¤¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ ¦À ¥È*¥ §Ä¢¦Øx ¦ §Ä¢¦Øx ¦ §Ä¢¦Øx ¦ ¨Ä¤§ÐTd§J ¨#Å¤§Ø)¢§K ©DÄ¦¨(.¨ ©CÄ¦¨(.¨ ©EÄ¦¨(.¨ ªHÄ¨©(é@© «Äªª
+ ª«Äªª
+ ª¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬Äˆ«0î «1¬	Äˆ«0î «1¬
+Äˆ«0î «1¬ Äˆ«0î «1­¦Å¬¬8ò,¬­§Å¬¬8ò,¬­¡Å¬¬8ò,¬­¢Å¬¬8ò,¬­DÄ¬¬8ò:¬ ­CÄ¬¬8ò:¬ ­Ä¬¬8ò ¬ ­KÄ¬¬8ò:¬ ­LÄ¬¬8ò:¬ ®¤Å®­X ,­ ¯Ä¤®(2® ¯Ä¤®(2® ¯Ä¤®(2® ¯Ä¤®(2® ¯Ä¤®(2® °Ä¢¯Ø) ¯ °Ä¢¯Ø) ¯ °Ä¢¯Ø) ¯ °Ä¢¯Ø) ¯ °Ä¢¯Ø) ¯ ±Ä°°Ø} ° ±Ä°°Ø} ° ±Ä°°Ø} ° ±Ä°°Ø} ° ±Ä°°Ø} ° ±Ä°°Ø} ° ±	Ä°°Ø} ° ±
+Ä°°Ø} ° ± Ä°°Ø} ° ²Ä¢±¨i0± ³Ä¢²Ø)² ³#Å¢²Ø)¤²´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´Ä®³©|³´	Ä®³©|³´
+Ä®³©|³´ Ä®³©|³µ2Æ¬´ ¦´ ¶È²µH( µ¶È²µH( µ¶È²µH( µ·Ì´¶¨`|¶ ·Ì´¶¨`|¶ ·Ì´¶¨`|¶ ·Ì´¶¨`|¶ ¸NÐt·Ø).· ¸IÐt·Ø).· ¹Ð¶¸P€¸L ºÐ¶¹Hi¹M ºÐ¶¹Hi¹M »Ô¸º8òº »Ô¸º8òº »Ô¸ºXYº »KÔ¸ºXY¨º »LÔ¸ºXY¨º »FÔ¸ºXY¨º »GÔ¸ºXY¨º ¼ Ô¸»@‚ » ½ Ô¸¼ 1d¼ ¾Ô¸½¸` ½ ¿
+Ô¸¾Ø}d¾	¿	Ô¸¾ d¾ ÀCÔ¸¿^.¿ ÀEÔ¸¿^.¿ ÀKÔ¸¿^.¿ ÀLÔ¸¿^.¿ ÀFÔ¸¿^.¿ ÀGÔ¸¿^.¿ ÀÔ¸¿^ ¿ ÀAÔ¸¿^.¿ ÀQÔ¸¿^.¿ ÁØºÀ ÀÂÁÜ¼ÁHöªÁ ÂÇÜ¼Á8úªÁ ÃÜ¼Â 0ÂNÃÜ¼Â 0ÂNÃÜ¼Â 0ÂNÄHÞ¼ÃPþ¬ÃO Ä Ü¼ÃX‘&ÃP Ä$Ü¼Ã ÃQÅ£Ý¾Ä(\Ä Æ©Ý¼Å ,Å ÆJÜ¼Å 6Å Ç àÀÆ t*Æ È£äÂÇ ®ÇR#È£åÂÇ°ÇS#ÈcåÂÇ²ÇTÉêÄÈ(´ÈÉèÄÈ(¶È ÉoêÄÈ(¸È Êåé¾É0ºÉËDèÄÊp½Ê ËCèÄÊp½Ê ËEèÄÊp½Ê ËKèÄÊp½Ê ËŒêÄÊ@t¾Ê ËNèÄÊ@t¼Ê ËIèÄÊ@tÀÊ ËJèÄÊ@t¼Ê Ë@èÄÊ@t¼Ê ÌèÄËÈ0ËU ÍìÆÌ@Å*Ì Í
+ìÆÌ@Å*Ì Í ìÆÌ@Å*Ì ÎðÈÍØ}vÍ Î	ðÈÍØ}vÍ Î
+ðÈÍØ}vÍ Î ðÈÍØ}vÍ Î,ðÈÍØ}ÍÏð¼ÎÝÎV*Ïð¼ÎØQtÎÏð¼ÎØQtÎÐôÊÏxÏ Ñ£õ¼ÐØT,ÐW ÒAõÊÑ ÂÑ Ò¡öÊÑ ÄÑ!ÒöÊÑ ÆÑ ÒöÊÑ TÑ	Ó(ùÌÒXÞ¤ÒX Ó øÌÒÒY Ô
+øÎÓÚÓÔ øÎÓÚÓÕãùÎÔ(	ÉÔ ÖüÐÕ(*Õ ÖAüÐÕ(@Õ ÖNüÐÕ(@Õ ÖIüÐÕ(@Õ ÖJüÐÕ(@Õ ×ÎüÒÖ`ÊžÖ ×ÉüÒÖ`ÊžÖ ØÁüÔ×(	Ë× ØÂüÔ×(	Ë× ØÑüÔ×(	Ë× ØÒüÔ×(	Ë× ØÓüÔ×(	Ë× ØÔüÔ×(	Ë× ØÍüÔ×(	Ë× ÙãýÒØ¸`FØ ÚFüÒÙØÈBÙ ÚGüÒÙØÈBÙ ÚAüÒÙØÈBÙ ÚBüÒÙØÈBÙ Û ×ÚhLÚZ Û ×ÚhMÚ[ ÛN ×Úh9Ú\ ÛI ×Úh9Ú\ ÛJ ×Úh9Ú\ Û ×ÚhLÚZ Û ×ÚhMÚ[ ÛC ×ÚÀ8Ú]Û1×ÚpÌÚ]!ÛA ×Ú¸`8Ú^ ÛB ×Ú¸`8Ú^ ÛQ ×Ú 8Ú_ Û¤×Ú ,Ú`ÜJ ÙÛ¸8Û ÜA ÙÛ¸T8Û ÜR ÙÛØT8Û Ý ÙÜ 0ÜÞE×Ý(ÎÝa ß1×ÞÑÞ ß ×Þ+Þ àN ÛßAß àI ÛßAß àJ ÛßAß á  ×à(˜*àâ½á}á â½á}á â ½á}á ãÝâxâã	Ýâxâã
+Ýâxâã ÝâxâäFßã€7ã äßã€1ã äIßã€7ã ä&	ßã Ðã äEßã ã
